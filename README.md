@@ -639,7 +639,7 @@ Called from `browse_mode()` when Chrome is unavailable.
 
 ---
 
-## Connection Diagram
+## Connection Diagram [QOR LNNG](https://github.com/qor-lang/QOR)
 
 ```
 main.rs
@@ -911,3 +911,6 @@ PERCEIVE → REASON → ACT → LEARN
 - `active_scorecard.txt` — current scorecard ID
 - `arcade.qor` — all game strategy rules (QOR DNA)
 - `arcade_memory.qor` / `arcade_rules_learned.qor` — learned knowledge
+
+**© 2026 Ravikash Gupta (QORANET)** *Licensed under the [BSL License](https://github.com/qor-lang/QOR?tab=License-1-ov-file).* All rights reserved. Unauthorized reproduction of this framework's logic is prohibited.
+

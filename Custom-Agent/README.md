@@ -1,4 +1,4 @@
-# qor-agent
+# Qor-Agent
 
 ## Crate Overview
 
